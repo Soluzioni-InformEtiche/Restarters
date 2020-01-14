@@ -3,8 +3,8 @@ FILE_VERSION=1
 
 xmpp=2048,000000
 ympp=2048,000000
-lat=42,204904
-lon=12,644279
+lat=45,468590
+lon=9,348381
 mode=mercator
 color=#cccccc
 highlightcolor=#eea500
@@ -83,8 +83,8 @@ metadatakeywords=
 
 ~LayerData
 type="waypointlist"
-type="waypoint" latitude="45.073610000000002" longitude="7.6721000000000004" name="Restarters Torino" unixtime="1578957877" image="/home/antonio/Nextcloud/gdrive/lavoro/Associazione_Soluzioni_Informetiche/immagini - nextcloud/logo_restarters_torino.png"
-type="waypoint" latitude="45.461300000000001" longitude="9.1594999999999995" name="Restarters Milano" unixtime="1578958115" image="/home/antonio/Nextcloud/gdrive/lavoro/Associazione_Soluzioni_Informetiche/immagini - nextcloud/logo-restarters_milano.png"
+type="waypoint" latitude="45.073610000000002" longitude="7.6721000000000004" name="Restarters Torino" unixtime="1578957877" image="img/logo_restarters_torino.png"
+type="waypoint" latitude="45.461300000000001" longitude="9.1594999999999995" name="Restarters Milano" unixtime="1578958115" image="img/logo_restarters_milano.png"
 type="waypointlistend"
 ~EndLayerData
 ~EndLayer
